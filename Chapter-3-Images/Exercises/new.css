@@ -1,0 +1,24 @@
+body{
+    background-image: linear-gradient(#afb0b1,rgb(158, 165, 195));
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .image-container {
+    margin: 10px auto; /* Center image horizontally */
+    text-align: center; /* Needed for some browsers with inline elements */
+  }
+  
+  img {
+    filter: sepia(50%); /* Apply sepia filter */
+    width:410px; 
+    height:300px
+  }
+
+div {
+    display: inline-block;
+    margin-right: 4px;
+    
+}
+
